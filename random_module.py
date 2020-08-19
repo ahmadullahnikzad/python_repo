@@ -20,3 +20,4 @@ random.shuffle(nums)
 print(nums)
 #we can generate sequence numbers
 print(random.sample(range(100),3))
+print(random.choice('Supercalifragilisticexpialidocious'))
