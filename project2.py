@@ -1,2 +1,1 @@
-weekend='Saturday','Sunday'
-print(type(weekend))
+print(tuple('ahmad'))
